@@ -1,0 +1,8 @@
+C:\Users\dell\Documents\Visual Studio 2010\Projects\PruebaSocket\PruebaSocket\bin\Release\PruebaSocket.exe
+C:\Users\dell\Documents\Visual Studio 2010\Projects\PruebaSocket\PruebaSocket\bin\Release\PruebaSocket.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Release\PruebaSocket.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Release\PruebaSocket.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Release\PruebaSocket.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Release\PruebaSocket.exe
+C:\Users\dell\Documents\Visual Studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Release\PruebaSocket.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Release\PruebaSocket.csprojResolveAssemblyReference.cache

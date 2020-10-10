@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2010\Projects\PruebaSocket\PruebaSocket\bin\Debug\PruebaSocket.exe
+c:\users\dell\documents\visual studio 2010\Projects\PruebaSocket\PruebaSocket\bin\Debug\PruebaSocket.pdb
+c:\users\dell\documents\visual studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Debug\PruebaSocket.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Debug\PruebaSocket.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Debug\PruebaSocket.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Debug\PruebaSocket.exe
+c:\users\dell\documents\visual studio 2010\Projects\PruebaSocket\PruebaSocket\obj\x86\Debug\PruebaSocket.pdb
